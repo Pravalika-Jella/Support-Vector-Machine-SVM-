@@ -20,6 +20,10 @@ Check accuracy with cross-validation
 
 Plot decision boundaries for both models
 
+## Dataset Used: 
+Breast Cancer Wisconsin dataset from sklearn (built-in). It contains numeric features of cell nuclei computed from digitized images of a breast mass, labeled as malignant or benign.
+
+
 
 ## Results
 

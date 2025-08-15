@@ -1,4 +1,4 @@
-SVM Linear and RBF
+## SVM Linear and RBF ##
 
 
 This is a simple program to check how Support Vector Machine works with linear and RBF kernels.
@@ -49,8 +49,8 @@ SVM can also be used for regression (SVR)
 Good parameter selection avoids overfitting
 
 
-## ![1000020016](https://github.com/user-attachments/assets/eca419df-3c90-40b6-b804-f3a2cbacbb84)
-How to run
+
+## How to run
 
 Install:
 
